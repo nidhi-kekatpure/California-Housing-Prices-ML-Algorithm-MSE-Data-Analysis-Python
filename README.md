@@ -4,7 +4,7 @@ Machine learning analysis comparing multiple algorithms to predict median house 
 
 ## Live Demo
 
-**Try the app now**: 
+**Try the app now**: https://california-housing-predictor-ml.streamlit.app/
 
 ## Models Tested
 - Linear Regression
@@ -23,4 +23,5 @@ California housing data with features including location, housing age, rooms, po
 
 ## Usage
 Open the Jupyter notebook to explore the analysis and model comparisons. Models are evaluated using RMSE to identify the best performer.
+
 
