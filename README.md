@@ -2,6 +2,10 @@
 
 Machine learning analysis comparing multiple algorithms to predict median house values using the California housing dataset.
 
+## Live Demo
+
+**Try the app now**: 
+
 ## Models Tested
 - Linear Regression
 - K-Nearest Neighbors (KNN)
@@ -19,3 +23,4 @@ California housing data with features including location, housing age, rooms, po
 
 ## Usage
 Open the Jupyter notebook to explore the analysis and model comparisons. Models are evaluated using RMSE to identify the best performer.
+
