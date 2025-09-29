@@ -9,6 +9,10 @@ Machine learning analysis comparing multiple algorithms to predict median house 
 - Gradient Boosting
 - Neural Networks (3 variants)
 
+## Live Demo
+
+**Try the app now**: https://california-housing-predictor-ml.streamlit.app/
+
 ## Dataset
 California housing data with features including location, housing age, rooms, population, and median income.
 
@@ -19,3 +23,4 @@ California housing data with features including location, housing age, rooms, po
 
 ## Usage
 Open the Jupyter notebook to explore the analysis and model comparisons. Models are evaluated using RMSE to identify the best performer.
+
